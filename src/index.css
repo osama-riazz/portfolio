@@ -1,0 +1,8 @@
+.app-file{
+    background-image: url('../public/images/background-image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
